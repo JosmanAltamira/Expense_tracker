@@ -1,0 +1,23 @@
+
+<ion-content class="ion-padding">
+  <div class="header">
+    <h1 style="text-align:center;">Iniciar Sesión</h1>
+    <p>Use su correo y contraseña para iniciar sesión.</p>
+  </div>
+
+  <form [formGroup]="form">
+    <div>
+      <ion-label>correo</ion-label>
+      <ion-input formControlName="email" class="input" type="email" placeholder="Correo electrónico"></ion-input>
+    </div>
+    
+    <div>
+      <ion-label>Contraseña</ion-label>
+      <ion-input class="input" formControlName="password" type="password" placeholder="Contraseña"></ion-input>
+    </div>
+
+    <ion-button class="full" [disabled]="form.invalid" (click)="onLogin()" expand="block">Acceso</ion-button>
+  </form>
+
+  <ion-button expand="block" fill="clear" routerLink="/register">Crear una cuenta</ion-button>
+</ion-content>
