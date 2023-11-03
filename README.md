@@ -10,8 +10,8 @@ app movil ionic para control de gastos
 ## Imagenes
 
 <p align="center">
-  <img width="24%" src="https://github.com/JosmanAltamira/imagenes/blob/main/Expense_tracker/pag1.png">
-  <img width="24%" src="https://github.com/JosmanAltamira/imagenes/blob/main/Expense_tracker/pag2.png">
-  <img width="24%" src="https://github.com/JosmanAltamira/imagenes/blob/main/Expense_tracker/pag3.png">
-  <img width="24%" src="https://github.com/JosmanAltamira/imagenes/blob/main/Expense_tracker/pag4.png">
+  <img width="24%" src="https://gitlab.com/imagenes1/imgrepo/-/raw/main/Expense_tracker/pag1.png">
+  <img width="24%" src="https://gitlab.com/imagenes1/imgrepo/-/raw/main/Expense_tracker/pag2.png">
+  <img width="24%" src="https://gitlab.com/imagenes1/imgrepo/-/raw/main/Expense_tracker/pag3.png">
+  <img width="24%" src="https://gitlab.com/imagenes1/imgrepo/-/raw/main/Expense_tracker/pag4.png">
 </p>
